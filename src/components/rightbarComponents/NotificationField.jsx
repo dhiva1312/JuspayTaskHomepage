@@ -1,4 +1,4 @@
-import './NotificationField.css';
+import '../orderList/cssStyles/NotificationField.css';
 
 export default function NotificationField({ icon:Icon, text, time }) {
   return (

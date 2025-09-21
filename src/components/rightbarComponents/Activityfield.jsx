@@ -1,4 +1,4 @@
-import './NotificationField.css';
+import '../orderList/cssStyles/NotificationField.css';
 export default function ActivityField({ image, text, time }) {
   return (
     <div className="notification-field">
