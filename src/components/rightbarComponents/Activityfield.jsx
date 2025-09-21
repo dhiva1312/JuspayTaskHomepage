@@ -1,4 +1,4 @@
-import '../rightbarComponents/notificationField.css'
+import '../rightbarComponents/NotificationField.css'
 export default function ActivityField({ image, text, time }) {
   return (
     <div className="notification-field">
