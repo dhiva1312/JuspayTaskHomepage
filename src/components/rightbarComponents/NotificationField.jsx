@@ -1,4 +1,4 @@
-import '../rightbarComponents/NotificationField.css';
+import '../rightbarComponents/notificationField.css';
 
 export default function NotificationField({ icon:Icon, text, time }) {
   return (
